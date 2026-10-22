@@ -131,6 +131,8 @@ static const char* const kMountFilterKeywords[] = {
 
 static const char* const kAllowlistedPackages[] = {
     "org.lineageos.updater",
+    "org.penguinos.updater",
+    "com.penguin.laboratory",
     nullptr
 };
 
